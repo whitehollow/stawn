@@ -1,0 +1,873 @@
+fileFormatVersion: 2
+guid: 5cb77f0599f572d47beac7a8c799cac9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: firebal_big_01
+    21300002: firebal_big_02
+    21300004: firebal_big_03
+    21300006: chest_open
+    21300008: crate
+    21300010: ladder_top
+    21300012: ladder_bottom
+    21300014: tree
+    21300016: fireball_bottom_01
+    21300018: fireball_bottom_02
+    21300020: fireball_bottom_03
+    21300022: fireball_left_01
+    21300024: chest_close
+    21300026: spike_block
+    21300028: fireball_right_01
+    21300030: ladder_step
+    21300032: catus_small
+    21300034: exit
+    21300036: fireball_up_01
+    21300038: fireball_up_02
+    21300040: fireball_up_03
+    21300042: key
+    21300044: dirt_top_left_float
+    21300046: diamond
+    21300048: start
+    21300050: info
+    21300052: options
+    21300054: score_bg_left
+    21300056: score_bg_center
+    21300058: score_bg_right
+    21300060: bomb_tnt
+    21300062: buzz
+    21300064: bush_arid
+    21300066: dirt_right
+    21300068: dirt_top_center_float
+    21300070: dirt_middle_right
+    21300072: dirt_center_bottom
+    21300074: crate_wood
+    21300076: cactus_medium
+    21300078: dirt_top_left
+    21300080: dirt_bottom_right
+    21300082: dirt
+    21300084: dirt_middle
+    21300086: dirt_top_center
+    21300088: bush_brown
+    21300090: spike_cristal
+    21300092: skelet
+    21300094: crate_wood_old
+    21300096: bush
+    21300098: dirt_bottom_left
+    21300100: dirt_middle_left
+    21300102: dirt_top_middle_right
+    21300104: health_pack
+    21300106: cactus
+    21300108: sign_info
+    21300110: spike_wood
+    21300112: heart
+    21300114: dirt_top_center_middle
+    21300116: dirt_top_right_float
+    21300118: bomb
+    21300120: dirt_top_right
+    21300122: stone_small
+    21300124: spike_blood
+    21300126: stone_big
+    21300128: bush_green
+    21300130: sign
+    21300132: coint
+    21300134: diamond_01
+    21300136: fireball_right_02
+    21300138: fireball_right_03
+    21300140: fireball_left_02
+    21300142: fireball_left_03
+    21300144: dirt_left
+    21300146: health_frame
+    21300148: health_bar
+    21300150: platformMoving
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: firebal_big_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 998
+        width: 159
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: firebal_big_02
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 998
+        width: 151
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: firebal_big_03
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 998
+        width: 162
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chest_open
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 869
+        width: 200
+        height: 217
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crate
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 886
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ladder_top
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 776
+        width: 41
+        height: 310
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ladder_bottom
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 776
+        width: 41
+        height: 309
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 732
+        width: 313
+        height: 260
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireball_bottom_01
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 914
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireball_bottom_02
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 911
+        width: 51
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireball_bottom_03
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 913
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireball_left_01
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 836
+        width: 71
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chest_close
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 676
+        width: 200
+        height: 185
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spike_block
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 771
+        width: 200
+        height: 107
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireball_right_01
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 762
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ladder_step
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 728
+        width: 200
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: catus_small
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 723
+        width: 70
+        height: 45
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: exit
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 663
+        width: 240
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireball_up_01
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 690
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireball_up_02
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 690
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireball_up_03
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 690
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: key
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 681
+        width: 82
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dirt_top_left_float
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 627
+        width: 128
+        height: 93
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 679
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: start
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 605
+        width: 201
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: info
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 600
+        width: 200
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: options
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 607
+        width: 200
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: score_bg_left
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 629
+        width: 47
+        height: 39
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: score_bg_center
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 629
+        width: 96
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: score_bg_right
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 629
+        width: 47
+        height: 39
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bomb_tnt
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 628
+        width: 50
+        height: 43
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buzz
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bush_arid
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 518
+        width: 131
+        height: 74
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dirt_right
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 464
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dirt_top_center
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 464
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dirt_middle_right
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 471
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dirt_center_bottom
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 493
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crate_wood
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 499
+        width: 120
+        height: 120
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cactus_medium
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 523
+        width: 86
+        height: 96
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dirt_top_left
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 382
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dirt_bottom_right
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 328
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dirt
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 328
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dirt_left
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 335
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dirt_top_center_float
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 392
+        width: 128
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bush_brown
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 441
+        width: 102
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spike_cristal
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 339
+        width: 85
+        height: 176
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skelet
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 150
+        height: 51
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crate_wood_old
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 332
+        width: 101
+        height: 101
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bush
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 145
+        height: 88
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dirt_bottom_left
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 246
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dirt_middle_left
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 192
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dirt_top_middle_right
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 192
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health_pack
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 172
+        width: 120
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cactus
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 273
+        width: 108
+        height: 111
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sign_info
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 236
+        width: 85
+        height: 88
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spike_wood
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 228
+        width: 50
+        height: 96
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heart
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 292
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dirt_top_center_middle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 128
+        height: 128
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dirt_top_right
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 110
+        width: 128
+        height: 128
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bomb
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 74
+        width: 128
+        height: 110
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dirt_top_right_float
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 91
+        width: 128
+        height: 93
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone_small
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 166
+        width: 101
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spike_blood
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 116
+        width: 48
+        height: 112
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone_big
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 124
+        height: 73
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bush_green
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 114
+        width: 102
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sign
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 71
+        width: 84
+        height: 87
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coint
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 109
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamond_01
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 71
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireball_right_02
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 762
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireball_right_03
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 762
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireball_left_02
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 837
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireball_left_03
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 838
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health_frame
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 108
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: health_bar
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 24
+        width: 100
+        height: 16
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: platformMoving
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 180
+        width: 156
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
